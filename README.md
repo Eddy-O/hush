@@ -1,0 +1,2 @@
+# hush
+https://myhush.org
